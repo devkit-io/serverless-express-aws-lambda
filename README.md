@@ -43,3 +43,6 @@ export AWS_SECRET_ACCESS_KEY_ID=<value>
 
 ### Deploy
 `cdk deploy`
+
+### Automated deployment
+To automate this deployment, visit https://dev-kit.io/deploy
